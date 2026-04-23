@@ -3,7 +3,7 @@ import { exec } from 'child_process';
 import fs from 'fs';
 import { EOL } from 'os';
 
-const SYSTEMD_SERVICE_NAME = 'logitechmediaserver'
+const SYSTEMD_SERVICE_NAME = 'lyrionmusicserver'
 const PREFS_FILE = '/var/lib/squeezeboxserver/prefs/server.prefs';
 const DEFAULT_SERVER_PORT = '9000';
 
